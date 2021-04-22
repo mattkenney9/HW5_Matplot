@@ -1,1 +1,9 @@
 # HW5_Matplot
+
+Observations and Insight
+
+After removing the duplicate mouse the total count of mice is 248. By observing the data in the bar graph the drug most tested was Capomulin. The pie charts all show that male to female ratio was close to even at 50.6% males to 49.4% females giving a unbias study group. 
+
+the linear regression model shows the corrolation between the mouse weight and the average volume of the tumor for the Capomulin drug. the corrolation vale is .84 which indicates there exists a strong positive corrolation between the Weight(g) and Volume(size). This means that as the weight of the mouse increases so does the volume of the tumor. The R-squared value is .71, which means that 71% of the model fits into the data. Higher R-squared value represents smaller differences between observed data and the fitted value. 
+
+In the Capomulin test with mouse number G288 as the base data for the plot line I cpould compare the tumor volume after the Capomulin drug was administered. This graph shows that after 40 days that the volume had decreased around 10%. 
